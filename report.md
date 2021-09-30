@@ -7,11 +7,11 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/OlgaKP/MoneyTransfer/issues/1
+* [дефект_1](https://github.com/OlgaKP/MoneyTransfer/issues/1)
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
+В качестве тестовых данных использовались данные [Money Transfer](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * текущий баланс счёта клиента - 2_000_000_000 (два миллиарда рублей), сумма перевода - 500_000_000 (пятьсот миллионов рублей). Итоговое значение баланса счета клиента должно быть равно 2_500_000_000 рублей.
 
 Тестирование производилось в следующем окружении:
